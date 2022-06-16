@@ -21,3 +21,5 @@ Docker will allow you to have the same webserver system on your laptop that you 
   <h1> Hello World </h1>
 </html>
 ```
+10. Go to your web browser (Crome, Safari or Edge) and enter "localhost" into the URL bar.  You should be able to see your index.html file rendered.
+![](images/index.png)
