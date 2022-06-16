@@ -12,3 +12,5 @@ Docker will allow you to have the same webserver system on your laptop that you 
 5. Make sure that you have docker desktop running.  
 6. Right click on the docker-compose.yml and if you have the Docker extension installed, you should see an option to "compose up".  Select this option.  
 ![](images/composeup.png)
+7. When the server has been created, you should be able to see the output in the terminal window.
+8. ![](images/dockerterminal.png)
