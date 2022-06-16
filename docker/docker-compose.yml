@@ -1,0 +1,11 @@
+version: "2"
+services: 
+  apache2:
+    build: .
+    #container_name: djangodockermodelhost
+    ports:
+      - '8005:80'
+      - '3501:3500'
+    # Use this to actually mount my local directory for the website instead of being copied to the image
+    volumes: 
+      - $HOME/public_html:/var/www/html
