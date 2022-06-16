@@ -1,0 +1,9 @@
+version: "2"
+services: 
+  npm:
+    build: .
+    ports:
+      - '80:8080'
+    # Use this to actually mount my local directory for the website instead of being copied to the image
+    volumes: 
+      - $HOME/public_html:/var/www/html
