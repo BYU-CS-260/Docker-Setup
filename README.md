@@ -23,3 +23,5 @@ Docker will allow you to have the same webserver system on your laptop that you 
 ```
 10. Go to your web browser (Crome, Safari or Edge) and enter "localhost" into the URL bar.  You should be able to see your index.html file rendered.  
 ![](images/index.png)  
+
+## Congratulations!  You can now create other web pages in this directory and you can view them in your web browser.
