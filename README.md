@@ -8,5 +8,5 @@ Docker will allow you to have the same webserver system on your laptop that you 
 <img src="images/vscodeOpen.png" width="200">
 <img src="images/vscodeFolder.png" width="200">
 5. Make sure that you have docker desktop running.
-5. Right click on the docker-compose.yml and if you have the Docker extension installed, you should see an option to "compose up".  Select this option.
+6. Right click on the docker-compose.yml and if you have the Docker extension installed, you should see an option to "compose up".  Select this option.
 <img src="images/composeup.png" width="200">
