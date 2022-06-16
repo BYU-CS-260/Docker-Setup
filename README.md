@@ -14,3 +14,10 @@ Docker will allow you to have the same webserver system on your laptop that you 
 ![](images/composeup.png)
 7. When the server has been created, you should be able to see the output in the terminal window.
 ![](images/dockerTerminal.png)
+8. The docker web server is configured to serve files that are in the "public_html" folder on your laptop or desktop.  In your vscode window select file/open/newfolder and select "public_html" as the name of the new folder.
+9. Create a new file in this folder and name it "index.html".  This is the default file that will be displayed by the docker web server.  Copy and paste this content into your "index.html" file.
+```html
+<html>
+  <h1> Hello World </h1>
+</html>
+```
