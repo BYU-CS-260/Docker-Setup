@@ -9,11 +9,11 @@ Docker will allow you to have the same node.js and mongo versions on your laptop
 4. Open the docker directory in vscode, and you should be able to see the files "docker-compose.yml" and "Dockerfile" on the left panel in vscode.  
 ![](images/vscodeOpen.png)
 ![](images/vscodeFolder.png)
-4.1. If you did not install the vscode docker extensions, Select Extensions on the left sidebar  
-![](images/extensions.png)
-4.2. Search for Docker and select the extension  
-![](images/extensions2.png) 
-4.3. Install the extension.
+  - If you did not install the vscode docker extensions, Select Extensions on the left sidebar  
+![](https://github.com/BYU-CS-260/VScode-Setup/blob/main/images/extensions.png)
+  - Search for Docker and select the extension  
+![](https://github.com/BYU-CS-260/VScode-Setup/blob/main/images/extensions2.png) 
+  - Install the extension.
 5. Make sure that you have docker desktop running.  
 6. Right click on the docker-compose.yml and if you have the Docker extension installed, you should see an option to "compose up".  Select this option.  
 ![](images/composeup.png)
